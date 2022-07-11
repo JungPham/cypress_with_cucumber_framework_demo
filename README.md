@@ -1,4 +1,4 @@
-# cypress_framework_demo
+# cypress_with_cucumber_framework_demo
 Cypress framework demo project
 
 1/ Structure framework
